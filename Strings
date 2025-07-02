@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">escape</string>
+    <string name="btnInicios">Inicios</string>
+    <string name="btnIniciar">Iniciar</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="btnRegisr">Iniciar Sesión</string>
+    <string name="txtUsuario">Ingresa tu nombre de usuario</string>
+    <string name="txtContraseña">Ingresa tu contraseña</string>
+    <string name="txtAp_Paterno">Apellido Paterno</string>
+    <string name="txtAp_Materno">Apellido materno</string>
+    <string name="txtNombre">Nombre</string>
+</resources>
